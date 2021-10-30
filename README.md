@@ -1,13 +1,13 @@
-<!-- <h2 align="center"> -->
-  <abc>
+<abc>
     <h1 align="center">
       Welcome to Ibrohim Rasulov's profile!
       <img src="https://media.giphy.com/media/26Fxy3Iz1ari8oytO/giphy.gif" width="80">
     </h1>
       <img src="https://readme-typing-svg.herokuapp.com/?lines=I'm%20Full%20Stack%20Web%20Developer;Self-taught%20UI%2FUX%20Designer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=540&height=50&color=6948fb&vCenter=true&size=23">
-    <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" align="center" width="500">
-  </abc>
-<!-- </h2> -->
+    <p  align="center">
+      <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
+    </p>
+</abc>
 
 ## 🛠️ My favorite languages and tools
 
