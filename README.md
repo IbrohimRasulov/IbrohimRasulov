@@ -1,6 +1,6 @@
 <h1 align="center">
  <abc>
-  <h3 align="left">
+  <h3 align="center">
     Welcome to Ibrohim Rasulov's profile!
   <img src="https://media.giphy.com/media/26Fxy3Iz1ari8oytO/giphy.gif" width="80">
   </h3>
