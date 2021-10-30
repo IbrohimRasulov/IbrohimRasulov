@@ -1,4 +1,4 @@
-<h2 align="center">
+<h1 align="left">
  <abc>
   <h3 align="center">
     Welcome to Ibrohim Rasulov's profile!
@@ -9,7 +9,7 @@
 </p>
     <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
  </abc>
-</h2>
+</h1>
 
 ### 🛠️ My favorite languages and tools
 
