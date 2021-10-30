@@ -1,15 +1,15 @@
-<h1 align="center">
- <abc>
-  <h3 align="center">
-    Welcome to Ibrohim Rasulov's profile!
-  <img src="https://media.giphy.com/media/26Fxy3Iz1ari8oytO/giphy.gif" width="80">
-  </h3>
-  <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=I'm%20Full%20Stack%20Web%20Developer;Self-taught%20UI%2FUX%20Designer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=540&height=50&color=6948fb&vCenter=true&size=25"></a>
-</p>
+<h2 align="center">
+  <abc>
+    <h1 align="center">
+      Welcome to Ibrohim Rasulov's profile!
+      <img src="https://media.giphy.com/media/26Fxy3Iz1ari8oytO/giphy.gif" width="80">
+    </h1>
+    <p align="center">
+      <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=I'm%20Full%20Stack%20Web%20Developer;Self-taught%20UI%2FUX%20Designer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=540&height=50&color=6948fb&vCenter=true&size=25"></a>
+    </p>
     <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
- </abc>
-</h1>
+  </abc>
+</h2>
 
 ## 🛠️ My favorite languages and tools
 
