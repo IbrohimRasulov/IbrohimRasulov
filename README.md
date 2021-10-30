@@ -1,6 +1,6 @@
-<h1 align="left">
+<h1 align="center">
  <abc>
-  <h3 align="center">
+  <h3 align="left">
     Welcome to Ibrohim Rasulov's profile!
   <img src="https://media.giphy.com/media/26Fxy3Iz1ari8oytO/giphy.gif" width="80">
   </h3>
@@ -11,7 +11,7 @@
  </abc>
 </h1>
 
-### 🛠️ My favorite languages and tools
+## 🛠️ My favorite languages and tools
 
 <p>
     <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
