@@ -9,6 +9,8 @@
     </p>
 </abc>
 
+![Promise's Github Stats](https://github-readme-stats.vercel.app/api?username=IbrohimRasulov)
+
 ## 🛠️ My favorite languages and tools
 
 <p>
