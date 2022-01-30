@@ -11,6 +11,8 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=IbrohimRasulov&hide_border=true&hide_title=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite)
 
+![](http://github-readme-streak-stats.herokuapp.com?user=IbrohimRasulov&theme=soft-green&date_format=M%20j%5B%2C%20Y%5D)
+
 ## 🛠️ My favorite languages and tools
 
 <p>
