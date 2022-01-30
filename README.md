@@ -17,8 +17,8 @@
 
 ## Languages
 <p align="left">
-	<img  src="svg/dev/languages/css3.svg"  alt="css3"  style="vertical-align:top; margin:6px 4px">
   <img  src="svg/dev/languages/html.svg"  alt="html"  style="vertical-align:top; margin:6px 4px">
+  <img  src="svg/dev/languages/css3.svg"  alt="css3"  style="vertical-align:top; margin:6px 4px">
   <img  src="svg/dev/languages/js.svg"  alt="js"  style="vertical-align:top; margin:6px 4px">
 </p>
 
@@ -32,8 +32,8 @@
 
 ## Tools
 <p align="left">
-  <img  src="svg/dev/services/npm.svg"  alt="npm"  style="vertical-align:top; margin:6px 4px">
   <img  src="svg/dev/tools/visualstudio_code.svg"  alt="visualstudio_code"  style="vertical-align:top; margin:6px 4px">
+  <img  src="svg/dev/services/npm.svg"  alt="npm"  style="vertical-align:top; margin:6px 4px">
   <img  src="svg/dev/languages/sass.svg"  alt="sass"  style="vertical-align:top; margin:6px 4px">
   <img src="svg/dev/services/office_365.svg" alt="office 365" style="vertical-align:top; margin:6px 4px">
 </p>
