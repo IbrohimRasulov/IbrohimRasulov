@@ -39,7 +39,7 @@
 </p>
 
 ## Contact Info
-<p align="center">
+<p align="left">
   <a  href="#">
   <img  src="svg/social/gmail.svg"  alt="gmail"  style="vertical-align:top; margin:6px 4px">
   </a>
