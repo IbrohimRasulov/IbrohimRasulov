@@ -66,3 +66,10 @@
 </p>
 
 <!-- For more icons please follow https://github.com/MikeCodesDotNET/ColoredBadges -->
+
+<p  align="center">
+      <img src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/41a4790484e268102dfdab2b7c59d440d3ffafab/resources/img/geek.gif" alt="Coder GIF" width="200">
+    </p>
+
+<p align="center"><b>Visitor's Count</b></p>
+<p align="center"><img src="https://profile-counter.glitch.me/IbrohimRasulov/count.svg" alt="visitor badge"/></p>
