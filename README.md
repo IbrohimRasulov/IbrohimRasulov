@@ -40,7 +40,7 @@
 
 ## Contact Info
 <p align="left">
-  <a  href="#">
+  <a  href="https://mail.google.com/mail/u/?authuser=ibrohim05062000@gmail.com">
   <img  src="svg/social/gmail.svg"  alt="gmail"  style="vertical-align:top; margin:6px 4px">
   </a>
 
