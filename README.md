@@ -40,11 +40,11 @@
 
 ## Contact Info
 <p align="left">
-  <a  href="https://mail.google.com/mail/u/?authuser=ibrohim05062000@gmail.com">
+  <a  href="https://mail.google.com/mail/u/?authuser=ibrohim05062000@gmail.com" target="_blank">
   <img  src="svg/social/gmail.svg"  alt="gmail"  style="vertical-align:top; margin:6px 4px">
   </a>
 
-  <a  href="https://www.linkedin.com/in/ibrohim-rasulov-a88352209/">
+  <a  href="https://www.linkedin.com/in/ibrohim-rasulov-a88352209/" target="_blank">
   <img  src="svg/social/linkedin.svg"  alt="linkedin"  style="vertical-align:top; margin:6px 4px">
   </a>
 
@@ -52,7 +52,7 @@
   <img  src="svg/social/whatsapp.svg"  alt="whatsapp"  style="vertical-align:top; margin:6px 4px">
   </a>
 
-  <a  href="https://www.instagram.com/ibrohim_rasulovs/">
+  <a  href="https://www.instagram.com/ibrohim_rasulovs/" target="_blank">
   <img  src="svg/social/instagram.svg"  alt="instagram"  style="vertical-align:top; margin:6px 4px">
   </a>
 
@@ -60,7 +60,7 @@
   <img  src="svg/social/telegram.svg"  alt="telegram"  style="vertical-align:top; margin:6px 4px">
   </a>
 
-  <a  href="https://twitter.com/IbrohimRasu1ov">
+  <a  href="https://twitter.com/IbrohimRasu1ov" target="_blank">
   <img  src="svg/social/twitter.svg"  alt="twitter"  style="vertical-align:top; margin:6px 4px">
   </a>
 </p>
