@@ -13,22 +13,56 @@
 
 ![](http://github-readme-streak-stats.herokuapp.com?user=IbrohimRasulov&theme=soft-green&date_format=M%20j%5B%2C%20Y%5D)
 
-## 🛠️ My favorite languages and tools
+<!-- For more icons please follow https://github.com/MikeCodesDotNET/ColoredBadges -->
 
-<p>
-    <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
-    <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Aruby"><img alt="Ruby" src="https://img.shields.io/badge/Ruby-CC342D.svg?logo=ruby&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Amarkdown"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white"></a>
-    <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
-    <a href="#"><img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2671E5.svg?logo=github%20actions&logoColor=white"></a>
-    <a href="#"><img alt="Material Design" src="https://img.shields.io/badge/Material%20Design-0081CB.svg?logo=material-design&logoColor=white"></a>
-    <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
-    <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"></a>
-    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
-    <a href="#"><img alt="Codepen" src="https://img.shields.io/badge/Codepen-000000.svg?logo=codepen&logoColor=white"></a>
-    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
-    <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets-34A853.svg?logo=google%20sheets&logoColor=white"></a>
-    <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
+## Languages
+<p align="left">
+	<img  src="svg/dev/languages/css3.svg"  alt="css3"  style="vertical-align:top; margin:6px 4px">
+  <img  src="svg/dev/languages/html.svg"  alt="html"  style="vertical-align:top; margin:6px 4px">
+  <img  src="svg/dev/languages/js.svg"  alt="js"  style="vertical-align:top; margin:6px 4px">
 </p>
+
+## Frameworks
+<p align="left">
+	<img  src="svg/dev/frameworks/bootstrap.svg"  alt="bootstrap"  style="vertical-align:top; margin:6px 4px">
+  <img  src="svg/dev/frameworks/materialize.svg"  alt="materialize"  style="vertical-align:top; margin:6px 4px">
+  <img  src="svg/dev/frameworks/nodejs.svg"  alt="nodejs"  style="vertical-align:top; margin:6px 4px">
+  <img src="svg/dev/frameworks/react.svg" alt="react" style="vertical-align:top; margin:6px 4px">
+</p>
+
+## Tools
+<p align="left">
+  <img  src="svg/dev/services/npm.svg"  alt="npm"  style="vertical-align:top; margin:6px 4px">
+  <img  src="svg/dev/tools/visualstudio_code.svg"  alt="visualstudio_code"  style="vertical-align:top; margin:6px 4px">
+  <img  src="svg/dev/languages/sass.svg"  alt="sass"  style="vertical-align:top; margin:6px 4px">
+  <img src="svg/dev/services/office_365.svg" alt="office 365" style="vertical-align:top; margin:6px 4px">
+</p>
+
+## Contact Info
+<p align="center">
+  <a  href="#">
+  <img  src="svg/social/gmail.svg"  alt="gmail"  style="vertical-align:top; margin:6px 4px">
+  </a>
+
+  <a  href="https://www.linkedin.com/in/ibrohim-rasulov-a88352209/">
+  <img  src="svg/social/linkedin.svg"  alt="linkedin"  style="vertical-align:top; margin:6px 4px">
+  </a>
+
+  <a  href="#">
+  <img  src="svg/social/whatsapp.svg"  alt="whatsapp"  style="vertical-align:top; margin:6px 4px">
+  </a>
+
+  <a  href="https://www.instagram.com/ibrohim_rasulovs/">
+  <img  src="svg/social/instagram.svg"  alt="instagram"  style="vertical-align:top; margin:6px 4px">
+  </a>
+
+  <a  href="#">
+  <img  src="svg/social/telegram.svg"  alt="telegram"  style="vertical-align:top; margin:6px 4px">
+  </a>
+
+  <a  href="https://twitter.com/IbrohimRasu1ov">
+  <img  src="svg/social/twitter.svg"  alt="twitter"  style="vertical-align:top; margin:6px 4px">
+  </a>
+</p>
+
+<!-- For more icons please follow https://github.com/MikeCodesDotNET/ColoredBadges -->
