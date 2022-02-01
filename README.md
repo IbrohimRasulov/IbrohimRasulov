@@ -41,7 +41,7 @@
 
 ## Contact Info
 <p align="left">
-  <a  href="https://mail.google.com/mail/u/?authuser=ibrohim05062000@gmail.com" target="_blank">
+  <a  href="https://docs.google.com/document/d/1T_9Wr-qYwelbIZftZgrvCOQd0nL9jGUeWTY4qUREQk0/edit?usp=sharing" target="_blank">
   <img  src="svg/social/gmail.svg"  alt="gmail"  style="vertical-align:top; margin:6px 4px">
   </a>
 
@@ -49,7 +49,7 @@
   <img  src="svg/social/linkedin.svg"  alt="linkedin"  style="vertical-align:top; margin:6px 4px">
   </a>
 
-  <a  href="#">
+  <a  href="https://wa.me/qr/CP6VN3TBY556M1">
   <img  src="svg/social/whatsapp.svg"  alt="whatsapp"  style="vertical-align:top; margin:6px 4px">
   </a>
 
