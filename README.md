@@ -18,39 +18,23 @@
 
 ## Languages
 <p align="left">
-  <img  src="svg/dev/languages/html.svg"  alt="html"  style="vertical-align:top; margin:6px 4px">
-  <img  src="svg/dev/languages/css3.svg"  alt="css3"  style="vertical-align:top; margin:6px 4px">
-  <img  src="svg/dev/languages/js.svg"  alt="js"  style="vertical-align:top; margin:6px 4px">
+ 	<img  src="svg/dev/languages/html.svg"  alt="html"  style="vertical-align:top; margin:6px 4px">
+	<img  src="svg/dev/languages/css3.svg"  alt="css3"  style="vertical-align:top; margin:6px 4px">
+  	<img  src="svg/dev/languages/js.svg"  alt="js"  style="vertical-align:top; margin:6px 4px">
 </p>
 
 ## Frameworks
 <p align="left">
 	<img  src="svg/dev/frameworks/bootstrap.svg"  alt="bootstrap"  style="vertical-align:top; margin:6px 4px">
-  <img  src="svg/dev/frameworks/materialize.svg"  alt="materialize"  style="vertical-align:top; margin:6px 4px">
-  <img  src="svg/dev/frameworks/nodejs.svg"  alt="nodejs"  style="vertical-align:top; margin:6px 4px">
-  <img src="svg/dev/frameworks/react.svg" alt="react" style="vertical-align:top; margin:6px 4px">
-</p>
-
-## Tools
-<p align="left">
-  <img  src="svg/dev/tools/visualstudio_code.svg"  alt="visualstudio_code"  style="vertical-align:top; margin:6px 4px">
-  <img  src="svg/dev/services/npm.svg"  alt="npm"  style="vertical-align:top; margin:6px 4px">
-  <img  src="svg/dev/languages/sass.svg"  alt="sass"  style="vertical-align:top; margin:6px 4px">
-  <img src="svg/dev/services/office_365.svg" alt="office 365" style="vertical-align:top; margin:6px 4px">
+	<img src="svg/dev/frameworks/react.svg" alt="react" style="vertical-align:top; margin:6px 4px">
+  	<img  src="svg/dev/frameworks/materialize.svg"  alt="materialize"  style="vertical-align:top; margin:6px 4px">
+  	<img  src="svg/dev/frameworks/nodejs.svg"  alt="nodejs"  style="vertical-align:top; margin:6px 4px">
 </p>
 
 ## Contact Info
 <p align="left">
-  <a  href="https://docs.google.com/document/d/1T_9Wr-qYwelbIZftZgrvCOQd0nL9jGUeWTY4qUREQk0/edit?usp=sharing" target="_blank">
-  <img  src="svg/social/gmail.svg"  alt="gmail"  style="vertical-align:top; margin:6px 4px">
-  </a>
-
   <a  href="https://www.linkedin.com/in/ibrohim-rasulov-a88352209/" target="_blank">
   <img  src="svg/social/linkedin.svg"  alt="linkedin"  style="vertical-align:top; margin:6px 4px">
-  </a>
-
-  <a  href="https://wa.me/qr/CP6VN3TBY556M1">
-  <img  src="svg/social/whatsapp.svg"  alt="whatsapp"  style="vertical-align:top; margin:6px 4px">
   </a>
 
   <a  href="https://www.instagram.com/ibrohim_rasulovs/" target="_blank">
@@ -59,10 +43,6 @@
 
   <a  href="#">
   <img  src="svg/social/telegram.svg"  alt="telegram"  style="vertical-align:top; margin:6px 4px">
-  </a>
-
-  <a  href="https://twitter.com/IbrohimRasu1ov" target="_blank">
-  <img  src="svg/social/twitter.svg"  alt="twitter"  style="vertical-align:top; margin:6px 4px">
   </a>
 </p>
 
