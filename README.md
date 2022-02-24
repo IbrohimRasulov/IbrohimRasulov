@@ -54,8 +54,8 @@
   <img  src="svg/social/linkedin.svg"  alt="linkedin"  style="vertical-align:top; margin:6px 4px">
   </a>
 
-  <a  href="https://www.instagram.com/ibrohim_rasulovs/" target="_blank">
-  <img  src="svg/social/instagram.svg"  alt="instagram"  style="vertical-align:top; margin:6px 4px">
+  <a  href="mailto:ibrohim05062000@gmail.com" target="_blank" rel="noopener noreferrer">
+  <img  src="svg/social/gmail.svg"  alt="gmail"  style="vertical-align:top; margin:6px 4px">
   </a>
 
   <a  href="#">
