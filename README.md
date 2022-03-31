@@ -58,7 +58,7 @@
   <img  src="svg/social/gmail.svg"  alt="gmail"  style="vertical-align:top; margin:6px 4px">
   </a>
 
-  <a  href="#">
+  <a  href="https://t.me/+998930090506">
   <img  src="svg/social/telegram.svg"  alt="telegram"  style="vertical-align:top; margin:6px 4px">
   </a>
 </p>
