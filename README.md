@@ -11,8 +11,8 @@
 </abc>
 
 <p align="center">
-	<img width=48%" src="https://github-readme-stats.vercel.app/api?username=IbrohimRasulov&hide_border=true&&show_icons=true&include_all_commits=true&count_private=true&line_height=25&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite">
-	<img width="48%" src="http://github-readme-streak-stats.herokuapp.com?user=IbrohimRasulov&theme=soft-green&date_format=M%20j%5B%2C%20Y%5D">
+	<img width=48%" src="https://github-readme-stats.vercel.app/api?username=IbrohimRasulov&hide_border=true&&show_icons=true&include_all_commits=true&count_private=true&line_height=20&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite">
+	<img width="40%" src="http://github-readme-streak-stats.herokuapp.com?user=IbrohimRasulov&theme=soft-green&date_format=M%20j%5B%2C%20Y%5D">
 </p>
 
 <!-- For more icons please follow https://github.com/MikeCodesDotNET/ColoredBadges -->
@@ -30,15 +30,18 @@
 <img src="https://img.shields.io/badge/Jest-C21325.svg?style=for-the-badge&logo=Jest&logoColor=white">
 <img src="https://img.shields.io/badge/JSON-000000.svg?style=for-the-badge&logo=JSON&logoColor=white">
 <img src="https://img.shields.io/badge/Babel-F9DC3E.svg?style=for-the-badge&logo=Babel&logoColor=black">
+<img src="https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white">
 <img src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black">
 <img src="https://img.shields.io/badge/Redux-764ABC.svg?style=for-the-badge&logo=Redux&logoColor=white">
 <img src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white">
 <img src="https://img.shields.io/badge/GitHub Actions-2088FF.svg?style=for-the-badge&logo=GitHub-Actions&logoColor=white">
+<img src="https://img.shields.io/badge/Markdown-000000.svg?style=for-the-badge&logo=Markdown&logoColor=white">
 <img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF.svg?style=for-the-badge&logo=Adobe-Photoshop&logoColor=white">
 <img src="https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=Figma&logoColor=white">
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white">
 <img src="https://img.shields.io/badge/Ruby-CC342D.svg?style=for-the-badge&logo=Ruby&logoColor=white">
 <img src="https://img.shields.io/badge/Ruby on Rails-CC0000.svg?style=for-the-badge&logo=Ruby-on-Rails&logoColor=white">
-<img src="https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=node-dot-js&logoColor=white">
+
 </p>
 
 <!-- For more icons please follow https://github.com/MikeCodesDotNET/ColoredBadges -->
