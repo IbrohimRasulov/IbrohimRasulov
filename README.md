@@ -62,7 +62,7 @@
   <img  src="svg/social/gmail.svg"  alt="gmail"  style="vertical-align:top; margin:6px 4px">
   </a>
 
-  <a  href="https://t.me/+998930090506">
+  <a  href="https://t.me/ibrohim_rasulovs">
   <img  src="svg/social/telegram.svg"  alt="telegram"  style="vertical-align:top; margin:6px 4px">
   </a>
 </p>
