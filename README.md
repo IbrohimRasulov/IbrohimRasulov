@@ -1,11 +1,10 @@
 <abc>
     <h1 align="center">
-	<img src="https://media.giphy.com/media/26Fxy3Iz1ari8oytO/giphy.gif" width="70">
-      Welcome to Ibrohim Rasulov's profile!
-      	<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="70">
+      Welcome to Ibrohim Rasulov's profile
+      <img src="https://media.giphy.com/media/26Fxy3Iz1ari8oytO/giphy.gif" width="70">
     </h1>
     <p  align="center">
-      <img src="https://readme-typing-svg.herokuapp.com/?lines=I'm%20Full%20Stack%20Web%20Developer;Self-taught%20UI%2FUX%20Designer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=540&height=50&color=6948fb&vCenter=true&size=25">
+      <img src="https://readme-typing-svg.herokuapp.com/?lines=I'm%20Front-End%20Web%20Developer;Self-Taught%20UI%2FUX%20Designer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=540&height=50&color=6948fb&vCenter=true&size=25">
       <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
     </p>
 </abc>
@@ -36,12 +35,8 @@
 <img src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white">
 <img src="https://img.shields.io/badge/GitHub Actions-2088FF.svg?style=for-the-badge&logo=GitHub-Actions&logoColor=white">
 <img src="https://img.shields.io/badge/Markdown-000000.svg?style=for-the-badge&logo=Markdown&logoColor=white">
-<img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF.svg?style=for-the-badge&logo=Adobe-Photoshop&logoColor=white">
 <img src="https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=Figma&logoColor=white">
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white">
-<img src="https://img.shields.io/badge/Ruby-CC342D.svg?style=for-the-badge&logo=Ruby&logoColor=white">
-<img src="https://img.shields.io/badge/Ruby on Rails-CC0000.svg?style=for-the-badge&logo=Ruby-on-Rails&logoColor=white">
-
 </p>
 
 <!-- For more icons please follow https://github.com/MikeCodesDotNET/ColoredBadges -->
