@@ -1,10 +1,8 @@
 <abc>
     <h1 align="center">
-      Welcome to Ibrohim Rasulov's profile
-      <img src="https://media.giphy.com/media/26Fxy3Iz1ari8oytO/giphy.gif" width="70">
+      Ibrohim Rasulov <sup><small><code>Frontend Developer</code></small></sup>
     </h1>
     <p  align="center">
-      <img src="https://readme-typing-svg.herokuapp.com/?lines=I'm%20Front-End%20Developer;Self-Taught%20UI%2FUX%20Designer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=540&height=50&color=6948fb&vCenter=true&size=25">
       <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
     </p>
 </abc>
@@ -52,9 +50,6 @@
 <!-- <p  align="center">
 	<img src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/41a4790484e268102dfdab2b7c59d440d3ffafab/resources/img/geek.gif" alt="Coder GIF" width="250">
 </p> -->
-
-<h2 align="center">Visitor's Count</h2>
-<p align="center"><img src="https://profile-counter.glitch.me/IbrohimRasulov/count.svg" alt="visitor badge"/></p>
 
 <p align="center">
   <a  href="https://www.linkedin.com/in/ibrohim-rasulov-a88352209/" target="_blank">
